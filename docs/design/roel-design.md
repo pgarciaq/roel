@@ -208,6 +208,7 @@ PCP is the metrics data source for `roel`. It is not a sibling project — it is
 | `roeld` is a daemon (not a cron job or one-shot) | [ADR-0003](adr/0003-roeld-daemon.md) | Accepted |
 | RHEL workload abstraction (process, container, quadlet, cgroup) | [ADR-0004](adr/0004-rhel-workload-abstraction.md) | Accepted |
 | Disk IOPS/throughput is a new engine not in `librobne` | [ADR-0005](adr/0005-disk-engine.md) | Accepted |
+| PCP Go integration via pmproxy REST API | [ADR-0006](adr/0006-pcp-go-integration.md) | Accepted |
 
 ---
 

@@ -14,3 +14,4 @@ Format follows [Michael Nygard's ADR template](https://cognitect.com/blog/2011/1
 | [0003](0003-roeld-daemon.md) | roeld is a daemon (not a cron job or one-shot) | Deployment | Accepted |
 | [0004](0004-rhel-workload-abstraction.md) | RHEL workload abstraction (process, container, quadlet, cgroup) | Domain Model | Accepted |
 | [0005](0005-disk-engine.md) | Disk IOPS/throughput is a new engine not in librobne | Engine | Accepted |
+| [0006](0006-pcp-go-integration.md) | PCP Go integration via pmproxy REST API | Integration | Accepted |
